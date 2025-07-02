@@ -1,0 +1,42 @@
+body {
+    margin: 10;
+    padding: 10;
+    position: relative;
+}
+
+.blue {
+    position: relative;
+    width: 100px;
+    height: 200px;
+    background-color: blue;
+    display: inline-block;
+}
+
+.yellow {
+    position: relative;
+    width: 100px;
+    height: 150px;
+    background-color: yellow;
+    display: inline-block;
+    top:-50px;
+    left:-4px;
+}
+
+.red {
+    position: relative;
+    width: 100px;
+    height: 150px;
+    background-color: red;
+    display: inline-block;
+    top:-50px;
+    left:-8px;
+}
+
+.green {
+    position: relative;
+    width: 200px;
+    height: 50px;
+    background-color: green;
+    display: inline-block;
+    left:-212px;
+}
